@@ -1,0 +1,38 @@
+
+    /* Style for buttons*/
+
+    .btn-squared-default, .btn-squared-default-plain {
+        width: 60px !important;
+        height: 60px !important;
+        font-size: 10px;
+        text-align: center;
+        padding-top: 22px;
+        padding-bottom: 20px;
+    }
+
+    .btn-squared-default:hover {
+        border: 3px solid white;
+        font-weight: 700;
+    }
+
+    .btn-squared-default {
+        background-color: #577694;
+    }
+
+    .btn-squared-default-plain:hover {
+        border: 0px solid white;
+    }
+
+    #ITU1, #ITU2 {
+        text-align: center;
+    }
+
+    #currentstatus, #messagebox {
+        text-align: left;
+        padding-inline-start: 10%;
+        padding-right: 5%;
+    }
+
+    #logo {
+        padding-inline-start: 30%;
+    }
