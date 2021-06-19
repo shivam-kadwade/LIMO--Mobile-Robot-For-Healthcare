@@ -1,4 +1,4 @@
-# LIMO--Mobile-Robot-For-Healthcare
+# LIMO-Mobile-Robot-For-Healthcare
 The role of robotics in the medical field is ever-increasing. With everything going on in the world due to the pandemic, robotics is the one stop solution to tackle many problems faced by the medical fraternity. Contactless sanitization, drug delivery, medical procedures are very much possible with the help of robotics and automation.
 
 The onboard autonomous navigation system coupled with precise closed loop control of the motors allows smooth and efficient working of the robot in real world settings. Multiple robots can be utilized in combination to perform collaborative tasks over a single network opening a whole new level of possibilities.
