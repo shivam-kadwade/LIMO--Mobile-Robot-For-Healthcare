@@ -5,6 +5,11 @@ The onboard autonomous navigation system coupled with precise closed loop contro
 
 ![LIMO1](https://user-images.githubusercontent.com/83583221/122642296-541c4280-d127-11eb-9901-2a019cbc3ea1.JPG)
 
+Dashboard UI LLD:
+
+![Layout](https://github.com/shivam-kadwade/LIMO--Mobile-Robot-For-Healthcare/assets/83583221/1e1b1c80-4bc5-4d77-b47a-b8f24d7e5beb)
+
+
 More about LIMO:
 https://www.binaryrobotics.in/products-and-services/medical-robotics
 
