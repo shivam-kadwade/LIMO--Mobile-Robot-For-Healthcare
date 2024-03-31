@@ -9,6 +9,10 @@ Dashboard UI LLD:
 
 ![Layout](https://github.com/shivam-kadwade/LIMO--Mobile-Robot-For-Healthcare/assets/83583221/1e1b1c80-4bc5-4d77-b47a-b8f24d7e5beb)
 
+Dashboard Implementation:
+
+![limo-dashboard](https://github.com/shivam-kadwade/LIMO--Mobile-Robot-For-Healthcare/assets/83583221/c2951604-5935-44f4-a55e-7ad5bf2bc01b)
+
 
 More about LIMO:
 https://www.binaryrobotics.in/products-and-services/medical-robotics
