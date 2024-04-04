@@ -13,6 +13,10 @@ Dashboard Implementation:
 
 ![limo-dashboard](https://github.com/shivam-kadwade/LIMO--Mobile-Robot-For-Healthcare/assets/83583221/c2951604-5935-44f4-a55e-7ad5bf2bc01b)
 
+Dashboard Implementation - Responsive:
+
+![Untitled design](https://github.com/shivam-kadwade/LIMO--Mobile-Robot-For-Healthcare/assets/83583221/f194255a-3546-443b-b5fc-b1bd181d68db)
+
 
 More about LIMO:
 https://www.binaryrobotics.in/products-and-services/medical-robotics
